@@ -2,7 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdduneon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  
+# ⚙️ &nbsp;GitHub Analytics
+
+</div>
 
 <p align="center">
 <a href="https://github.com/dduneon">
@@ -16,7 +20,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xpe12)](https://solved.ac/xpe12/)
 <div>
 
-### ⚙️ &nbsp;Development LOGs
+<br>
+
+# ⚙️ &nbsp;Development LOGs
 
 
 
@@ -24,7 +30,7 @@
     <a href="https://dduneon.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://xpexpe.notion.site/efd52cc45b584be1aed54ea3fde188a6">
+    <a href="https://dduneon.me">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
