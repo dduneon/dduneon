@@ -40,7 +40,7 @@
 
 ### 📖 PortFolio
 
-<a href="https://dduneon.me">
+<a href="https://github.com/dduneon">
     <img height="100em" src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
 </a>
   
