@@ -30,7 +30,7 @@
 
 ### ✏️ Blog
 
-<a href="https://dduneon.tistory.com">
+<a href="https://blog.dduneon.me">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
 </a>
 
